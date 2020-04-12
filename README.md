@@ -1,9 +1,8 @@
-# PYTHON Chat App
+# Python Chat App
 
 Python chat app is a Multi-chat client-server application by manipulating threads and sockets.
 
 ## Installation
-
 
 Require python 3.
 
