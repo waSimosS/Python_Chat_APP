@@ -10,7 +10,7 @@ Require python 3.
 
 First run the server.py script then run the client.py script.
 Enter the SERVER IP address and PORT on the client terminal.
-Use the tinker GUI to start chatting.
+Use the tkinker GUI to start chatting.
 
 ## Contributing
 Pull requests are welcome. 
